@@ -1,0 +1,2 @@
+# TextEditor
+JetBrains Academy project
