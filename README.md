@@ -6,4 +6,5 @@ I have learned:
 2. Basics of Anonymous classes and Lyambdas
 3. Input and output in Java
 4. Swing
+
 ![Image alt](https://github.com/GaynelleFlores/TextEditor/blob/main/screenshot.jpg) 
